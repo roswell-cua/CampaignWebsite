@@ -5,7 +5,7 @@ const compiledFactory = require('./build/CampaignFactory.json');
 const provider = new HDWalletProvider(
   '',
   // remember to change this to your own phrase!
-  ''
+  'https://rinkeby.infura.io/v3/1cde4dfebc9e46f5b9503d805ea173fc'
   // remember to change this to your own endpoint!
 );
 const web3 = new Web3(provider);
