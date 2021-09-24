@@ -3,7 +3,7 @@ const Web3 = require('web3');
 const compiledFactory = require('./build/CampaignFactory.json');
 
 const provider = new HDWalletProvider(
-  '',
+  'pistol hurt diet forward perfect evolve barrel east gentle possible certain era',
   // remember to change this to your own phrase!
   'https://rinkeby.infura.io/v3/1cde4dfebc9e46f5b9503d805ea173fc'
   // remember to change this to your own endpoint!
